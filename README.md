@@ -57,14 +57,6 @@ I'm a **3rd-year engineering student** specializing in **Machine Learning and Da
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AM1N8&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AM1N8&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
 ## 📫 Connect with Me  
 - 🔗 GitHub: [AM1N8](https://github.com/AM1N8)  
 - 💼 LinkedIn: [Mohamed Amine Darraj](https://www.linkedin.com/in/mohamed-amine-darraj-b4754631a/)  
