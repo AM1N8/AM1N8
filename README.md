@@ -59,12 +59,12 @@ I'm a **3rd-year engineering student** specializing in **Machine Learning and Da
 
 ##  Connect with Me  
 -  GitHub: [AM1N8](https://github.com/AM1N8)  
-- 💼 LinkedIn: [Mohamed Amine Darraj](https://www.linkedin.com/in/mohamed-amine-darraj-b4754631a/)  
-- 📧 Email: [mohamedaminedarraj@gmail.com](mailto:mohamedaminedarraj@gmail.com)  
+-  LinkedIn: [Mohamed Amine Darraj](https://www.linkedin.com/in/mohamed-amine-darraj-b4754631a/)  
+-  Email: [mohamedaminedarraj@gmail.com](mailto:mohamedaminedarraj@gmail.com)  
 
 ---
 
-### ⚡ Fun Fact  
-💡 *I love blending AI with game development to create autonomous agents that learn and adapt!*  
+###  Fun Fact  
+ *I love blending AI with game development to create autonomous agents that learn and adapt!*  
 
 ---
