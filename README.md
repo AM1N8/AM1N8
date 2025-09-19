@@ -1,6 +1,6 @@
 #  Hi, I'm Mohamed Amine Darraj  
 
-I'm a **3rd-year engineering student** specializing in **Machine Learning and Data Science**. Passionate about AI, data-driven solutions, and software development.  
+I'm a **4th-year engineering student** specializing in **Machine Learning and Data Science**. Passionate about AI, data-driven solutions, and software development.  
 
 ---
 
