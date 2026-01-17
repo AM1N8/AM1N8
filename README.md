@@ -1,12 +1,24 @@
-#  Hi, I'm Mohamed Amine Darraj  
+# Mohamed Amine Darraj
 
-I'm a **4th-year engineering student** specializing in **Machine Learning and Data Science**. Passionate about AI, data-driven solutions, and software development.  
+I am a **4th-year engineering student** specializing in **Machine Learning and Data Science**.  
+My work focuses on building **practical systems** that combine data, backend logic, and usable interfaces.
+
+I am particularly interested in applied machine learning, system design, and full-stack projects with real constraints.
 
 ---
 
-## Technologies & Tools  
+## Profile
 
-### Programming Languages  
+- Background in **machine learning, data analysis, and software engineering**
+- Experience building **backend-driven web applications**
+- Comfortable working across **ML pipelines, APIs, databases, and dashboards**
+- Interested in **reinforcement learning, simulation, and autonomous systems**
+
+---
+
+## Technologies & Tools
+
+### Programming Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
@@ -18,19 +30,19 @@ I'm a **4th-year engineering student** specializing in **Machine Learning and Da
 
 ---
 
-### Web Development & Frameworks  
+### Web Development & Frameworks
 <p align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 ---
 
-### Databases & Backend Services  
+### Databases & Backend
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
@@ -39,7 +51,7 @@ I'm a **4th-year engineering student** specializing in **Machine Learning and Da
 
 ---
 
-### Machine Learning, AI & Data Science  
+### Machine Learning & Data Science
 <p align="left">
   <img src="https://img.shields.io/badge/Reinforcement%20Learning-8A2BE2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
@@ -50,7 +62,7 @@ I'm a **4th-year engineering student** specializing in **Machine Learning and Da
 
 ---
 
-### DevOps, Tools & Systems  
+### Systems & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
@@ -60,23 +72,22 @@ I'm a **4th-year engineering student** specializing in **Machine Learning and Da
 
 ---
 
-### Systems, Simulation & Other  
+### Other
 <p align="left">
   <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
   <img src="https://img.shields.io/badge/Data%20Visualization-FF6384?style=for-the-badge" />
   <img src="https://img.shields.io/badge/System%20Design-0A66C2?style=for-the-badge" />
 </p>
 
+---
+
+## Contact
+
+- LinkedIn: [Mohamed Amine Darraj](https://www.linkedin.com/in/mohamed-amine-darraj-b4754631a/)
+- Email: [mohamedaminedarraj@gmail.com](mailto:mohamedaminedarraj@gmail.com)
 
 ---
 
-##  Connect with Me  
--  LinkedIn: [Mohamed Amine Darraj](https://www.linkedin.com/in/mohamed-amine-darraj-b4754631a/)  
--  Email: [mohamedaminedarraj@gmail.com](mailto:mohamedaminedarraj@gmail.com)  
+## Note
 
----
-
-###  Fun Fact  
- *I love blending AI with game development to create autonomous agents that learn and adapt!*  
-
----
+I am interested in projects where machine learning is part of a larger system rather than a standalone experiment.
