@@ -86,7 +86,6 @@ I'm a **4th-year engineering student** specializing in **Machine Learning and Da
 ---
 
 ##  Connect with Me  
--  GitHub: [AM1N8](https://github.com/AM1N8)  
 -  LinkedIn: [Mohamed Amine Darraj](https://www.linkedin.com/in/mohamed-amine-darraj-b4754631a/)  
 -  Email: [mohamedaminedarraj@gmail.com](mailto:mohamedaminedarraj@gmail.com)  
 
