@@ -82,18 +82,6 @@ Focus on **applied machine learning**, **backend systems**, and **data-driven we
 
 ---
 
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=am1n8&show_icons=true&hide_title=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=am1n8&layout=compact" />
-</p>
-
----
-
 ## Contact
 
 - LinkedIn: https://www.linkedin.com/in/mohamed-amine-darraj-b4754631a/
