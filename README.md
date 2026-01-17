@@ -4,21 +4,6 @@ I'm a **4th-year engineering student** specializing in **Machine Learning and Da
 
 ---
 
-##  Who Am I?  
--  Engineering student with a focus on **Machine Learning, Artificial Intelligence, and Data Science**  
--  Passionate about **software development, automation, and game development**  
--  Exploring **Evolutionary Algorithms (NEAT) to train self-driving cars in Godot**  
--  Enthusiast in **statistical modeling, deep learning, and optimization techniques**  
-
----
-
-##  What I'm Currently Working On  
--  **Building a NEAT-based self-driving car simulation in Godot**  
--  **Exploring reinforcement learning and deep neural networks**  
--  **Working on open-source projects related to AI and automation**  
-
----
-
 ## Technologies & Tools  
 
 ### Programming Languages  
