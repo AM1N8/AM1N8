@@ -7,7 +7,6 @@
 ### Programming Languages
 - **Python** - Primary language for ML, data analysis, and backend scripting
 - **Java** - Enterprise applications and Spring Boot services
-- **JavaScript/TypeScript** - Full-stack web development with modern frameworks
 - **SQL** - Database design, complex queries, and optimization
 - **C++** - Systems programming and performance-critical applications
 - **R** - Statistical analysis and data visualization
@@ -47,5 +46,5 @@ Working on integrating machine learning models into production systems, with emp
 
 ## Contact
 
-**LinkedIn:** [mohamed-amine-darraj](https://www.linkedin.com/in/mohamed-amine-darraj-b4754631a/)  
+**LinkedIn:** [mohamed-amine-darraj]([https://www.linkedin.com/in/mohamed-amine-darraj-b4754631a/](https://www.linkedin.com/in/mohamed-amine-darraj-5015423ab/))  
 **Email:** mohamedaminedarraj@gmail.com
