@@ -6,35 +6,6 @@
 <div float="left" align="center">
     <img src="https://media2.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width="50%"/>
 </div>
----
-
-## Technical Skills
-
-**Programming Languages**
-
-Python • Java • SQL • C++ • R
-
-**Machine Learning & Data Science**
-
-Reinforcement Learning • Deep Learning (PyTorch, TensorFlow) • Classical ML (scikit-learn) • Statistical Modeling • Time Series Analysis • Data Visualization
-
-**Web Development & Backend**
-
-Next.js • React • Spring Boot • REST API Design • JPA/Hibernate • Microservices Architecture
-
-**Databases & Storage**
-
-PostgreSQL • Supabase • Database Architecture • Query Optimization • Schema Design
-
-**Tools & Environment**
-
-Linux • Git • Bash • SNMP4J • Godot Engine
-
----
-
-## Current Focus
-
-Building scalable ML pipelines and efficient backend architectures with emphasis on real-time data processing systems and reinforcement learning applications in complex environments.
 
 ---
 
@@ -42,3 +13,4 @@ Building scalable ML pipelines and efficient backend architectures with emphasis
 
 **LinkedIn:** [mohamed-amine-darraj](https://www.linkedin.com/in/mohamed-amine-darraj-5015423ab/)  
 **Email:** mohamedaminedarraj@gmail.com
+
