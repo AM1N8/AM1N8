@@ -1,6 +1,11 @@
-# <img src="https://media3.giphy.com/media/OzhU5Yn4bTemY/giphy.gif" width="35" valign="middle"/> Mohamed Amine Darraj
+# <img src="https://media3.giphy.com/media/OzhU5Yn4bTemY/giphy.gif" width="40" valign="middle"/> Mohamed Amine Darraj
 
 4th-year engineering student specializing in Machine Learning and Data Science. I build applied ML systems, design backend architectures, and develop data-driven web applications. My work spans from reinforcement learning algorithms to production-ready REST APIs.
+
+---
+<div align="center">
+    <img src="https://media2.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width="50%"/>
+</div>
 
 ---
 
