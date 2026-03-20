@@ -31,6 +31,7 @@ PostgreSQL • Supabase • Database Architecture • Query Optimization • Sch
 Linux • Git • Bash • SNMP4J • Godot Engine
 
 ---
+<img src="https://media1.giphy.com/media/xUOwG6WpYHxPEx86EE/giphy.gif" width="10%">
 
 ## Current Focus
 
