@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
 
 # <img src="https://media3.giphy.com/media/OzhU5Yn4bTemY/giphy.gif" width="6%" valign="middle"/> Mohamed Amine Darraj
 
@@ -16,3 +16,4 @@
 **Email:** [mohamedaminedarraj@gmail.com](mailto:mohamedaminedarraj@gmail.com)
 
 </div>
+](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG92ZnNjeTQ3ZjdrNTUyZ29ybnNzc3JiZ2Rydm4xNWl1bDljcGkzdSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/HRjhC00AXR3H2/giphy.gif)
