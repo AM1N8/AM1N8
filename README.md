@@ -4,7 +4,7 @@
 
 4th-year engineering student specializing in Machine Learning and Data Science. I build applied ML systems, design backend architectures, and develop data-driven web applications. My work spans from reinforcement learning algorithms to production-ready REST APIs.
 
-**[Check out my portfolio :)](https://yourportfolio.com)**
+**[Check out my portfolio :)](https://cdxv.vercel.app/)**
 
 ---
 
