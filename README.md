@@ -2,7 +2,7 @@
 
 #  Mohamed Amine Darraj 
 
-I build applied ML systems, design scalable backend architectures
+Final-year engineering student specializing in Machine Learning and Data Science
 
 **[Check out my portfolio :)](https://cdxv.vercel.app/)**
 
