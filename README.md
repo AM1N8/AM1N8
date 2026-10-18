@@ -4,7 +4,7 @@
 
 Final-year engineering student specializing in Machine Learning and Data Science
 
-**[Check out my portfolio :)](https://cdxv.vercel.app/)**
+**[Check out my portfolio :)](https://cdxvamine.vercel.app/)**
 
 ---
 
